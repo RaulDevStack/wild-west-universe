@@ -1,0 +1,11 @@
+# ---------------------------------------------------------------------------
+# Closed source: the source code and the build project stay local only.
+# The public repository only contains README, LICENSE, CHANGELOG and this file;
+# the .jar files are published in the releases.
+# ---------------------------------------------------------------------------
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/CHANGELOG.md
+!/.github/
